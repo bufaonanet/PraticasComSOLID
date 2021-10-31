@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoFoop_Solid_Exercicio4", "CursoFoop_Solid_Exercicio4\CursoFoop_Solid_Exercicio4.csproj", "{B136E18D-0A11-4D10-AE0E-27861CC83141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B136E18D-0A11-4D10-AE0E-27861CC83141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B136E18D-0A11-4D10-AE0E-27861CC83141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B136E18D-0A11-4D10-AE0E-27861CC83141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B136E18D-0A11-4D10-AE0E-27861CC83141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0676E90-8B66-4828-9709-2D03EA6FA06D}
+	EndGlobalSection
+EndGlobal
